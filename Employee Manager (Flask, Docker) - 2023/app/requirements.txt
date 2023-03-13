@@ -1,0 +1,8 @@
+Flask
+flask_sqlalchemy
+flask-sqlalchemy
+sqlalchemy
+pymysql
+mysqlclient
+mysql-connector
+PyMySQL[rsa]
